@@ -55,32 +55,27 @@ footer {
     width: 100%;
 }
 
-/* Hover effect for SVG images */
 footer img:hover {
-    transform: scale(1.2); /* Increase the size on hover */
-    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+    transform: scale(1.2);
+    transition: transform 0.3s ease-in-out;
 }
 
-/* Hover effect for href text */
 footer a:hover {
-    color: yellow; /* Change text color on hover */
+    color: yellow;
 }
-/* ... (previous CSS code) ... */
 
 nav a:hover {
-    color: yellow; /* Change text color on hover */
+    color: yellow;
 }
 
-/* Hover effect for SVG images */
 footer img:hover {
-    transform: scale(1.2); /* Increase the size on hover */
-    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+    transform: scale(1.2);
+    transition: transform 0.3s ease-in-out;
 }
 
-/* Hover effect for href text */
 footer a:hover {
-    color: yellow; /* Change text color on hover */
+    color: yellow;
 }
 .footer-image {
-    margin-right: 50px; /* Adjust the margin as needed */
+    margin-right: 50px;
 }
