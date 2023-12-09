@@ -1,0 +1,86 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: #000406;
+}
+
+header {
+    background-color: hsl(279, 29%, 26%);
+    color: #ffffff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+footer {
+    background-color: rgb(4, 5, 36);
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Hover effect for SVG images */
+footer img:hover {
+    transform: scale(1.2); /* Increase the size on hover */
+    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+/* Hover effect for href text */
+footer a:hover {
+    color: yellow; /* Change text color on hover */
+}
+/* ... (previous CSS code) ... */
+
+nav a:hover {
+    color: yellow; /* Change text color on hover */
+}
+
+/* Hover effect for SVG images */
+footer img:hover {
+    transform: scale(1.2); /* Increase the size on hover */
+    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+/* Hover effect for href text */
+footer a:hover {
+    color: yellow; /* Change text color on hover */
+}
+.footer-image {
+    margin-right: 50px; /* Adjust the margin as needed */
+}
